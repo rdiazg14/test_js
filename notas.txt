@@ -5,6 +5,7 @@ https://drive.google.com/file/d/1g3oj8YneRXg0w_NRvpCcQIl14PehQspc/view?usp=drive
 
 https://github.com/MicrosoftLearning/dp-300-database-administrator/blob/master/Instructions/Templates/CreateRandomWorkloadGenerator.sql
 
+https://github.com/MicrosoftLearning/dp-300-database-administrator/blob/master/Instructions/Templates/ExecuteRandomWorkload.sql
 
 SQLSERVER
 ========
