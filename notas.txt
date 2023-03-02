@@ -2,3 +2,15 @@ aaaa
 https://github.com/MicrosoftLearning/dp-300-database-administrator/blob/master/Instructions/Templates/AdventureWorks2017.bak
 
 https://drive.google.com/file/d/1g3oj8YneRXg0w_NRvpCcQIl14PehQspc/view?usp=drivesdk
+
+SQLSERVER
+========
+
+select * from v$_recover_file;
+
+select * from sys.dm_exec_session_wait_stats;
+
+SELECT [wait_type] ,[waiting_tasks_count] ,[wait_time_ms] ,[wait_time_ms] / [waiting_tasks_count] AS [avg_wait_time_ms] ,[max_wait_time_ms] ,[signal_wait_time_ms] FROM sys.dm_db_wait_stats ORDER BY [avg_wait_time_ms] DESC
+
+
+
