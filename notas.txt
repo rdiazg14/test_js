@@ -18,3 +18,6 @@ SELECT [wait_type] ,[waiting_tasks_count] ,[wait_time_ms] ,[wait_time_ms] / [wai
 
 
 
+https://github.com/microsoft/tigertoolbox/blob/master/AdaptiveIndexDefrag/usp_AdaptiveIndexDefrag.sql
+
+
